@@ -784,9 +784,7 @@ Olá! Segue o link do repositório com o padrão de desenvolvimento:
 
 Por favor, analise o README.md e crie um script com as seguintes funcionalidades:
 
-1. Auto Farm com toggle e status label
-2. ESP Health com toggle, dropdown de cores e slider de tamanho
-3. Teleport com dropdown de jogadores e botão
+1. 
 
 Siga exatamente o padrão do README (comentários com --, estrutura Start/Stop/Loop, status labels, notificações e SaveConfig).
 
