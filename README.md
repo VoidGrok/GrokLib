@@ -777,13 +777,30 @@ local Tab = Window:MakeTab({
 ---
 
 Exemplo de como você pode pedir:
+```
+Olá! Segue o link do repositório com o padrão de desenvolvimento:
 
-"Me faça um script com Auto Farm, Auto Buy, ESP, Teleport, Auto Collect" - Eu criarei o script completo com todas essas funções
+🔗 https://github.com/VoidGrok/GrokLib
 
-"Crie uma aba de Teleport com Dropdown de jogadores e botão de teleport" - Eu criarei apenas essa aba com a funcionalidade específica
+Por favor, analise o README.md e crie um script com as seguintes funcionalidades:
 
-"Adicione uma função de Auto Farm no meu script" - Eu adicionarei a função no script existente
+1. Auto Farm com toggle e status label
+2. ESP Health com toggle, dropdown de cores e slider de tamanho
+3. Teleport com dropdown de jogadores e botão
+
+Siga exatamente o padrão do README (comentários com --, estrutura Start/Stop/Loop, status labels, notificações e SaveConfig).
+
+Não quero comentários usando:
+
+-- ==============================
+-- AUTO FARM
+-- ==============================
+
+Apenas comentário:
+
+-- 
 
 ---
+```
 
 Este README serve como guia completo para manter a consistência e organização dos scripts utilizando a GrokLib.
